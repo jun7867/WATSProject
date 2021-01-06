@@ -62,7 +62,6 @@
 
 구글 플레이 스토어: [휘리릭 다운받기](https://play.google.com/store/apps/details?id=com.handong.wats.wheeliric)
 
-(현재는 업데이트가 안돼 일부 기기에서 동작에 문제가 있을 수도 있습니다)
 
 각종 언론매체에 보도되었음:
 
