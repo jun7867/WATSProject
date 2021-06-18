@@ -4,6 +4,8 @@
 
 #### 협력: KT, 포항시 장애인종합복지관
 
+### 사용 기술
+- Android Studio , Firebase, Naver Map 
 
 ### 본 프로젝트에서 맡은 역할
 
