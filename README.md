@@ -13,8 +13,9 @@
 
 -Firebase 연동 및 유저 정보, 리뷰 데이터 등 DB 관리
 
--User(Login, My page..), Camera와 관련된 기능 구현
+-User(Login, Sign up, My page..), 후기 등록 관련된 기능 구현
 
+-전반적인 UI 개발 
 
 
 ### 배경 및 목적
